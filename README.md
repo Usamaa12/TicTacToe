@@ -18,7 +18,7 @@ A classic Tic Tac Toe game built using **Kotlin** and **Jetpack Compose**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Usamaa12/TicTacToe_game.git
+   git clone https://github.com/Usamaa12/TicTacToe
 Open the project in Android Studio.
 
 Build and run the app on an emulator or physical device.
